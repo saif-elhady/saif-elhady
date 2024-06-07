@@ -40,10 +40,8 @@
 ###
 
 <div align="center">
- <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
-  <rect width="100" height="100" fill="#ffffff"/>
-  <text x="10" y="50" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#FFFFFF">Express</text>
-</svg>
+  <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js Logo" style="background-color: #ffffff; padding: 10px;">
+  <img width="18" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img width="18" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
