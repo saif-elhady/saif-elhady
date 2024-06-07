@@ -1,6 +1,6 @@
 <div align="center">
   <a href="URL">
-    <img src="https://i.pinimg.com/564x/29/18/7b/29187be109169a17bb7ef980dbe21bd7.jpg" alt="Image description" />
+    <img  height="265" src="https://i.pinimg.com/564x/29/18/7b/29187be109169a17bb7ef980dbe21bd7.jpg" alt="Image description" />
   </a>
 </div>
 
@@ -56,4 +56,8 @@
   <img width="18" />
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-elhady&show_icons=true&locale=en&layout=compact" alt="saif-elhady" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-elhady&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
