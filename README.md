@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js Logo" style="background-color: #ffffff; padding: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color: #ffffff; padding: 10px;/>
   <img width="18" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img width="18" />
